@@ -7,6 +7,6 @@ plt.plot(x,y, 'b-')     #instruction to create the plot with x, v and a blue lin
 plt.grid(True)          #show a grid on the plot
 plt.axis([-3,3,0,9])    #set axis limits in the form: x0,x1,y0,y1
 plt.title('Test: Cuadratic Line') #title of the plot
-plt.xlabel('X values')  #Label for the X values
-plt.ylabel('Y values')  #Label for the Y vlaues
-plt.show()              #Command to show the plot
+plt.xlabel('X values')  #label for the X values
+plt.ylabel('Y values')  #label for the Y vlaues
+plt.show()              #command to show the plot
